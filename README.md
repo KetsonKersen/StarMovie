@@ -1,2 +1,2 @@
 # StarMovie
-![Capturar](https://github.com/KetsonKersen/StarMovie/assets/127996989/3d80280f-0666-4e09-bfbd-dcd210ccf4ab)
+![Capturar](https://github.com/KetsonKersen/StarMovie/assets/127996989/f53decfd-824a-4ef6-b9b4-3957d5f714ea)
