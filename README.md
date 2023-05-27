@@ -12,3 +12,6 @@ Bibliotecas utilizadas na criação do projeto:
 - react-icons
 - styled-components
 - sweetpagination
+
+Acesse:
+https://star-movie-ten.vercel.app/
