@@ -3,6 +3,7 @@ import {Color} from "../GlobalStyles"
 
 export const ContainerMoviePage = styled.section`
     width: 100%;
+    min-height: 100vh;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
