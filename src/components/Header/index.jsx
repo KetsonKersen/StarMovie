@@ -18,10 +18,6 @@ const Header = ()=>{
 
         navigate(`/Search?q=${state}`)
         setState("")
-        
-        const container = document.querySelector(".container-toggle")
-        SetMenuState(false)
-        container.style.transform = "translate(0 , -100%)"
     }
     const Togglemenu = () =>{
         const container = document.querySelector(".container-toggle")
