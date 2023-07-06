@@ -7,6 +7,7 @@ Podendo também encontrar novos filmes através dos filtros de categorias ou rea
 
 A plicação foi desenvolvida em React, utilizando Vite.js.
 Consumindo a API do themoviedb.
+
 Bibliotecas utilizadas na criação do projeto:
 - react-router-dom
 - react-icons
